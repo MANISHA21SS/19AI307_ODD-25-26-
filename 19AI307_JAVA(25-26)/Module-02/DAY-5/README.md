@@ -71,10 +71,12 @@ public static void main(String[]args){
 
 ## OUTPUT:
 
+<img width="1226" height="413" alt="Screenshot 2025-11-19 105431" src="https://github.com/user-attachments/assets/41675db6-adf9-4229-bdd6-ed05303ff4a5" />
 
 
 ## RESULT:
 
 Thus, the program creates a Student class in Java with variables name and rollNumber, define a method setDetails to assign values to these variables, and display them.
+
 
 
