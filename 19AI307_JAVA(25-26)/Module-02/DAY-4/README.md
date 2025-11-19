@@ -10,7 +10,7 @@ To create a Student class in Java with private instance variables for student ID
 
 ## ALGORITHM :
 
-1. Start the program.
+1.Start the program.
 
 2.Import java.util.Scanner for input.
 
@@ -83,3 +83,4 @@ class Student{
 ## RESULT:
 
 Thus, the program creates a Student class in Java with private instance variables for student ID, name, and age, initialize them using a constructor, and display the student details.
+
